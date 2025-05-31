@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+#### School: University of Illinois Urbana-Champaign
+#### First tech I owned: Samsung Galaxy S3 
+#### Hometown: Plainfield, IL
+#### Field of Study: Brain & Cognitive Science, Statistics
+#### Contact info: www.linkedin.com/in/aditi-cherukuri-6b4753284
+#### Bio: Hello! My name is Aditi Cherukuri and I am a sophomore at the University of Illinois Urbana-Champaign. I am interested in how innovations in AI and neurotechnology can be used to create helpful tools for people with neurodevelopmental disorders/disabilities. As I study human cognition and its intersection with artificial intelligence, I hope to make novel contributions to this field.
+
+![Night sky image](IMG_6592.JPG)
+
+
 <!--
 **adcheru/adcheru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
